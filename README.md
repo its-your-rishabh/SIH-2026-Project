@@ -24,6 +24,9 @@ Where:
 * $A$ = Surface Area ($48 \text{ m}^2$)
 * $\Delta T$ = Temperature Difference ($T_{\text{indoor}} - T_{\text{outdoor}}$)
 
+* <img width="1917" height="789" alt="Dashboard-Preview" src="https://github.com/user-attachments/assets/63b28761-e960-43a5-af03-961ecff0034d" />
+
+
 ---
 
 ## 🚀 How to Run
